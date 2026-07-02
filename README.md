@@ -88,9 +88,7 @@
 
 ---
 
-### ☕
-
-Monday Coffee Sales Analysis
+### ☕ Monday Coffee Sales Analysis
 
 ✔ SQL
 
@@ -102,9 +100,7 @@ Monday Coffee Sales Analysis
 
 ---
 
-### 📚
-
-Library Management System
+### 📚 Library Management System
 
 ✔ PostgreSQL
 
