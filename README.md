@@ -66,12 +66,6 @@
 
 ---
 
-### ⚙ Tools
-
-<p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🛒 Zepto Retail Analytics
